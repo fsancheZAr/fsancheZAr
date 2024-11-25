@@ -47,19 +47,30 @@ Here are some ideas to get you started:
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="" alt="" width="120" hight="50">
-<img src="" alt=""  width="100" hight="50">
-<img src="" alt="" width="90" hight="50">
-<img src="" alt="" width="100" hight="50">
-<img src="" alt="" width="180" hight="50">
+<img src="/resource/Apache.svg" alt="Apache" width="120" hight="50">
+<img src="/resource/BitBucket-Dark.svg" alt="Bitbucket"  width="100" hight="50">
+<img src="/resource/Bootstrap.svg" alt="Bootstrap" width="90" hight="50">
+<img src="/resource/CS.svg" alt="C#" width="100" hight="50">
+<img src="/resource/Docker.svg" alt="Docker" width="180" hight="50">
+<img src="/resource/Flask-Dark.svg" alt="Flask" width="180" hight="50">
+<img src="/resource/Git.svg" alt="Git" width="180" hight="50">
+<img src="/resource/Github-Dark.svg" alt="Github" width="180" hight="50">
 </br>
-<img src="" alt="" width="270" hight="50">
-<img src="" alt="" width="240" hight="50">
+<img src="/resource/Laravel-Dark.svg" alt="Laravel" width="270" hight="50">
+<img src="/resource/MySQL-Dark.svg" alt="MySQL" width="240" hight="50">
 </br>
-<img src="" alt="" width="100" hight="50">
-<img src="" alt="" width="100" hight="50">
-<img src="" alt="" width="150" hight="50">
+<img src="/resource/HTML.svg" alt="HTML" width="100" hight="50">
+<img src="/resource/Linux-Dark.svg" alt="Linux" width="100" hight="50">
+<img src="/resource/Obsidian-Dark.svg" alt="Obsidian" width="150" hight="50">
+<img src="/resource/PHP-Dark.svg" alt="PHP" width="150" hight="50">
+</br>
+<img src="/resource/Postman.svg" alt="Postman" width="150" hight="50">
+<img src="/resource/Python-Dark.svg" alt="Python" width="150" hight="50">
+<img src="/resource/TailwindCSS-Dark.svg" alt="TailwindCSS" width="150" hight="50">
+<img src="/resource/VSCode-Dark.svg" alt="VSCode" width="150" hight="50">
+<img src="/resource/VisualStudio-Dark.svg" alt="VisualStudio" width="150" hight="50">
 </p>
+</br>
 </br>
 </br>
 </br>
@@ -75,14 +86,12 @@ Here are some ideas to get you started:
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="ferrefttrr@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="" />
+ <img align="left" alt="Gmail" width="130" hight="100" src="/resource/Gmail-Dark.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="" />
+  <img src="/resource/LinkedIn.svg" align="left" alt="Linkedin" width="150" hight="100" src="" />
 </br>
 </br>
 </br>
-</a>
 
 
 
