@@ -12,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="">
-</div>
 </br>
 </br>
 </br>
@@ -46,32 +42,38 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="/resource/Apache.svg" alt="Apache" width="120" hight="50">
-<img src="/resource/BitBucket-Dark.svg" alt="Bitbucket"  width="100" hight="50">
-<img src="/resource/Bootstrap.svg" alt="Bootstrap" width="90" hight="50">
-<img src="/resource/CS.svg" alt="C#" width="100" hight="50">
-<img src="/resource/Docker.svg" alt="Docker" width="180" hight="50">
-<img src="/resource/Flask-Dark.svg" alt="Flask" width="180" hight="50">
-<img src="/resource/Git.svg" alt="Git" width="180" hight="50">
-<img src="/resource/Github-Dark.svg" alt="Github" width="180" hight="50">
-</br>
-<img src="/resource/Laravel-Dark.svg" alt="Laravel" width="270" hight="50">
-<img src="/resource/MySQL-Dark.svg" alt="MySQL" width="240" hight="50">
-</br>
-<img src="/resource/HTML.svg" alt="HTML" width="100" hight="50">
-<img src="/resource/Linux-Dark.svg" alt="Linux" width="100" hight="50">
-<img src="/resource/Obsidian-Dark.svg" alt="Obsidian" width="150" hight="50">
-<img src="/resource/PHP-Dark.svg" alt="PHP" width="150" hight="50">
-</br>
-<img src="/resource/Postman.svg" alt="Postman" width="150" hight="50">
-<img src="/resource/Python-Dark.svg" alt="Python" width="150" hight="50">
-<img src="/resource/TailwindCSS-Dark.svg" alt="TailwindCSS" width="150" hight="50">
-<img src="/resource/VSCode-Dark.svg" alt="VSCode" width="150" hight="50">
-<img src="/resource/VisualStudio-Dark.svg" alt="VisualStudio" width="150" hight="50">
+<!-- Row 1 -->
+<img src="/resource/Apache.svg" alt="Apache" width="100" height="50">
+
+<!-- Row 2 -->
+<img src="/resource/BitBucket-Dark.svg" alt="Bitbucket" width="100" height="50">
+<img src="/resource/Bootstrap.svg" alt="Bootstrap" width="100" height="50">
+
+<!-- Row 3 -->
+<img src="/resource/CS.svg" alt="C#" width="100" height="50">
+<img src="/resource/Docker.svg" alt="Docker" width="100" height="50">
+<img src="/resource/Flask-Dark.svg" alt="Flask" width="100" height="50">
+
+<!-- Row 4 -->
+<img src="/resource/Git.svg" alt="Git" width="100" height="50">
+<img src="/resource/Github-Dark.svg" alt="Github" width="100" height="50">
+<img src="/resource/Laravel-Dark.svg" alt="Laravel" width="100" height="50">
+<img src="/resource/MySQL-Dark.svg" alt="MySQL" width="100" height="50">
+
+<!-- Row 5 -->
+<img src="/resource/HTML.svg" alt="HTML" width="100" height="50">
+<img src="/resource/Linux-Dark.svg" alt="Linux" width="100" height="50">
+<img src="/resource/Obsidian-Dark.svg" alt="Obsidian" width="100" height="50">
+<img src="/resource/PHP-Dark.svg" alt="PHP" width="100" height="50">
+<img src="/resource/Postman.svg" alt="Postman" width="100" height="50">
+
+<!-- Row 6 -->
+<img src="/resource/Python-Dark.svg" alt="Python" width="100" height="50">
+<img src="/resource/TailwindCSS-Dark.svg" alt="TailwindCSS" width="100" height="50">
+<img src="/resource/VSCode-Dark.svg" alt="VSCode" width="100" height="50">
+<img src="/resource/VisualStudio-Dark.svg" alt="VisualStudio" width="100" height="50">
+
 </p>
-</br>
-</br>
 </br>
 </br>
 
