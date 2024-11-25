@@ -84,9 +84,9 @@ Here are some ideas to get you started:
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="ferrefttrr@gmail.com">
- <img src="/resource/Gmail-Dark.svg" alt="Gmail" align="left" width="100" hight="65" style="margin: 5px; />
+ <img src="/resource/Gmail-Dark.svg" alt="Gmail" align="left" width="100" hight="65" style="margin: 5px;" />
 </a>
-  <img src="/resource/LinkedIn.svg" alt="Linkedin" align="left" width="100" hight="65" style="margin: 5px; />
+  <img src="/resource/LinkedIn.svg" alt="Linkedin" align="left" width="100" hight="65" style="margin: 5px;" />
 </br>
 </br>
 </br>
